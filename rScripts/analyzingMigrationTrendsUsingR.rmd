@@ -23,18 +23,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ------------------------------------------------------------------------
 
-# TEAM MEMBERS: Group SAAS
-
-## *Huynh Hiep Tran (Alex)* - T00728369
-
-## *Shivani Tyagi* - T00727866
-
-## *Sayantika Saha* - T00731231
-
-## *Mohd Asaf Shaikh* -- T00728877
-
-------------------------------------------------------------------------
-
 # TABLE OF CONTENT
 
 1.  [Project Objective](#section-one)

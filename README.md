@@ -60,8 +60,6 @@ Analyzing-Migration-Trends-in-Canada
 
 ---
 **Authors:**
-    _`Shivani Tyagi (Data Scientist) - shivani.tg94@yahoo.com`_,
-    _`Sayantika Saha (Data Scientist) - sayantika0307@gmail.com`_, _`Huynh Hiep Tran (Alex)`_ & _`Mohd Asaf Shaikh`_
-
+    _`Shivani Tyagi (Data Scientist) - shivani.tg94@yahoo.com`
 
 **Copyright issued to @Authors**
